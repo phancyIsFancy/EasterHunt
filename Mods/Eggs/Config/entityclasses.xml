@@ -1,0 +1,45 @@
+<configs>
+	<append xpath="/entity_classes">
+	
+		<entity_class name="easterChicken" extends="animalTemplateHostile">
+			<property name="Tags" value="entity,animal,hostile"/>
+			<property name="Mesh" value="Animals/CHICKEN/chickenPrefab"/>
+			<property name="Prefab" value="NPC"/>
+			<property name="Class" value="EntityAnimalRabbit"/>
+			<property name="Parent" value="Animals"/>
+			<property name="Faction" value="animals"/>
+			<property name="PhysicsBody" value="chicken"/>
+			<property name="Mass" value="15"/>
+			<property name="Weight" value="10"/>
+			<property name="SoundHurt" value="Animals/Chicken/chickenpain"/>
+			<property name="SoundDeath" value="Animals/Chicken/chickendeath"/>
+			<property name="SwimOffset" value="2"/>
+			<property name="HasRagdoll" value="false"/>
+			<property name="HasDeathAnim" value="false"/>
+			<property name="AITask-1" value="BreakBlock"/>
+			<property name="AITask-2" value="Territorial"/>
+			<property name="AITask-3" value="ApproachAndAttackTarget" param1="EntityPlayer,20"/>
+			<property name="AITask-4" value="ApproachSpot"/>
+			<property name="AITask-5" value="Look"/>
+			<property name="AITask-6" value="Wander"/>
+			<property name="AITask-7" value=""/>
+			<property name="AITarget-1" value="SetAsTargetIfHurt" param1="EntityPlayer"/>
+			<property name="AITarget-2" value="BlockingTargetTask"/>
+			<property name="AITarget-3" value="SetNearestCorpseAsTarget" param1="EntityPlayer"/>
+			<property name="AITarget-4" value="SetNearestEntityAsTarget" param1="EntityPlayer,0"/>
+			<property name="AITarget-5" value=""/>
+
+			<!-- Gameplay -->
+		<property name="ExperienceGain" value="173"/>
+		<property name="DeadBodyHitPoints" value="175"/>
+		<property name="HandItem" value="meleeHandAnimalZombieVulture"/>
+		<drop event="Harvest" name="foodRawMeat" count="0" tool_category="Butcher"/>
+		<drop event="Harvest" name="foodRawMeat" tag="butcherHarvest" count="10"/> <!-- animalChicken -->
+		<drop event="Harvest" name="resourceFeather" tag="butcherHarvest" count="23"/>
+		<effect_group name="Base Effects">
+			<passive_effect name="HealthMax" operation="base_set" value="10"/>
+			<passive_effect name="HealthMax" operation="perc_add" value="0"/> <!-- Animal HP scale -->
+		</effect_group>
+		</entity_class>
+	</append>
+</configs>

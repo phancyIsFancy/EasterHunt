@@ -16,7 +16,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg1.unity3d?Egg1 Prefab" />
-            <!-- <property name="CustomIcon" value="Egg1" /> -->
+            <property name="CustomIcon" value="Zombie Egg" />
         </block>
   		    <block name="Scotch Egg">
             <property name="Material" value="Mstone"/>
@@ -32,7 +32,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg2.unity3d?Egg2 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Scotch Egg" />
         </block>
   		    <block name="Groke Egg">
             <property name="Material" value="Mstone"/>
@@ -48,7 +48,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg3.unity3d?Egg3 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Groke Egg" />
         </block>
   		    <block name="Tea Egg">
             <property name="Material" value="Mstone"/>
@@ -64,7 +64,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg4.unity3d?Egg4 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Tea Egg" />
         </block>
                     <block name="Eye Egg">
             <property name="Material" value="Mstone"/>
@@ -80,7 +80,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg5.unity3d?Egg5 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Eye Egg" />
         </block>
                     <block name="Skull Egg">
             <property name="Material" value="Mstone"/>
@@ -96,7 +96,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg6.unity3d?Egg6 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Skull Egg" />
         </block>
                      <block name="Phancy Egg">
             <property name="Material" value="Mstone"/>
@@ -112,7 +112,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg7.unity3d?Egg7 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Phancy Egg" />
         </block>
                     <block name="Fade Egg">
             <property name="Material" value="Mstone"/>
@@ -128,7 +128,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg8.unity3d?Egg8 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Fade Egg" />
         </block>
                     <block name="Pikeypoke Egg">
             <property name="Material" value="Mstone"/>
@@ -144,7 +144,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg9.unity3d?Egg9 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Pikeypoke Egg" />
         </block>
                     <block name="JaimeTigress Egg">
             <property name="Material" value="Mstone"/>
@@ -160,7 +160,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg10.unity3d?Egg10 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="JaimeTigress Egg" />
         </block>
                     <block name="Humbug Egg">
             <property name="Material" value="Mstone"/>
@@ -176,7 +176,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg11.unity3d?Egg11 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Humbug Egg" />
         </block>
                     <block name="Zombie Egg x2">
             <property name="Material" value="Mstone"/>
@@ -192,7 +192,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg1 x2.unity3d?Egg1 x2 Prefab" />
-            <!-- <property name="CustomIcon" value="Egg1" /> -->
+            <property name="CustomIcon" value="Zombie x2 Egg" />
         </block>
   		    <block name="Scotch Egg x2">
             <property name="Material" value="Mstone"/>
@@ -208,7 +208,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg2 x2.unity3d?Egg2 x2 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Scotch x2 Egg" />
         </block>
   		    <block name="Groke Egg x2">
             <property name="Material" value="Mstone"/>
@@ -224,7 +224,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg3 x2.unity3d?Egg3 x2 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Groke x2 Egg" />
         </block>
   		    <block name="Tea Egg x2">
             <property name="Material" value="Mstone"/>
@@ -240,7 +240,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg4 x2.unity3d?Egg4 x2 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Tea x2 Egg" />
         </block>
                     <block name="Eye Egg x2">
             <property name="Material" value="Mstone"/>
@@ -256,7 +256,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg5 x2.unity3d?Egg5 x2 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Eye x2 Egg" />
         </block>
                     <block name="Skull Egg x2">
             <property name="Material" value="Mstone"/>
@@ -272,7 +272,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg6 x2.unity3d?Egg6 x2 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Skull x2 Egg" />
         </block>
                      <block name="Phancy Egg x2">
             <property name="Material" value="Mstone"/>
@@ -288,7 +288,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg7 x2.unity3d?Egg7 x2 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Phancy x2 Egg" />
         </block>
                     <block name="Fade Egg x2">
             <property name="Material" value="Mstone"/>
@@ -304,7 +304,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg8 x2.unity3d?Egg8 x2 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Fade x2 Egg" />
         </block>
                     <block name="Pikeypoke Egg x2">
             <property name="Material" value="Mstone"/>
@@ -320,7 +320,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg9 x2.unity3d?Egg9 x2 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Pikeypoke x2 Egg" />
         </block>
                     <block name="JaimeTigress Egg x2">
             <property name="Material" value="Mstone"/>
@@ -336,7 +336,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg10 x2.unity3d?Egg10 x2 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="JaimeTigress x2 Egg" />
         </block>
                     <block name="Humbug Egg x2">
             <property name="Material" value="Mstone"/>
@@ -352,7 +352,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg11 x2.unity3d?Egg11 x2 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Humbug x2 Egg" />
         </block>
                     <block name="Zombie Egg x3">
             <property name="Material" value="Mstone"/>
@@ -368,7 +368,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg1 x3.unity3d?Egg1 x3 Prefab" />
-            <!-- <property name="CustomIcon" value="Egg1" /> -->
+            <property name="CustomIcon" value="Zombie x3 Egg" />
         </block>
   		    <block name="Scotch Egg x3">
             <property name="Material" value="Mstone"/>
@@ -384,7 +384,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg2 x3.unity3d?Egg2 x3 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Scotch x3 Egg" />
         </block>
   		    <block name="Groke Egg x3">
             <property name="Material" value="Mstone"/>
@@ -400,7 +400,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg3 x3.unity3d?Egg3 x3 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Groke x3 Egg" />
         </block>
   		    <block name="Tea Egg x3">
             <property name="Material" value="Mstone"/>
@@ -416,7 +416,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg4 x3.unity3d?Egg4 x3 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Tea x3 Egg" />
         </block>
                     <block name="Eye Egg x3">
             <property name="Material" value="Mstone"/>
@@ -432,7 +432,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg5 x3.unity3d?Egg5 x3 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Eye x3 Egg" />
         </block>
                     <block name="Skull Egg x3">
             <property name="Material" value="Mstone"/>
@@ -448,7 +448,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg6 x3.unity3d?Egg6 x3 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Skull x3 Egg" />
         </block>
                      <block name="Phancy Egg x3">
             <property name="Material" value="Mstone"/>
@@ -464,7 +464,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg7 x3.unity3d?Egg7 x3 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Phancy x3 Egg" />
         </block>
                     <block name="Fade Egg x3">
             <property name="Material" value="Mstone"/>
@@ -480,7 +480,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg8 x3.unity3d?Egg8 x3 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Fade x3 Egg" />
         </block>
                     <block name="Pikeypoke Egg x3">
             <property name="Material" value="Mstone"/>
@@ -496,7 +496,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg9 x3.unity3d?Egg9 x3 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Pikeypoke x3 Egg" />
         </block>
                     <block name="JaimeTigress Egg x3">
             <property name="Material" value="Mstone"/>
@@ -512,7 +512,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg10 x3.unity3d?Egg10 x3 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="JaimeTigress x3 Egg" />
         </block>
                     <block name="Humbug Egg x3">
             <property name="Material" value="Mstone"/>
@@ -528,7 +528,7 @@
             <property name="DescriptionKey" value="decorativeBlockGroupDesc"/> 
             <property name="Shape" value="ModelEntity" />
             <property name="Model" value="#@modfolder:Resources/Egg11 x3.unity3d?Egg11 x3 Prefab" />
-            <!-- <property name="CustomIcon" value="" /> -->
+            <property name="CustomIcon" value="Humbug x3 Egg" />
         </block>
                     <block name="Basket">
             <property name="Material" value="Mstone"/>
